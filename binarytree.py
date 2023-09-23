@@ -7,6 +7,7 @@ class Node:
 def print_tree(root):
     if root is None:
         return 
+    3
     
     print(root.data, end=":")
     if root.left is not None:
