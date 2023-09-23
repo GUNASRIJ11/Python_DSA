@@ -256,18 +256,6 @@ class LinkedList:
         print()
             
             
-
-        
-
-    
-
-
-
-
-
-    
-
-
     def print_list(self):
         temp = self.head
         while temp!=None:
